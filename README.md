@@ -5,7 +5,7 @@ Questo software offre un'interfaccia intuitiva per visualizzare e comprendere il
 ## Caratteristiche
 - Visualizzazione animata degli algoritmi di sort.
 - Possibilità di scegliere il numero di elementi da ordinare.
-- Selezione di uno o più algoritmi da eseguire contemporaneamente per confrontarne le prestazioni.
+- Selezione di uno o più algoritmi da eseguire contemporaneamente.
 - Interfaccia semplice e interattiva.
 
 ## Anteprima
